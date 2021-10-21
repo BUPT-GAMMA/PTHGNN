@@ -11,3 +11,7 @@ source code of KDD 2021 paper "Pre-training on Large-Scale Heterogeneous Graph".
 - [tqdm](https://github.com/tqdm/tqdm)
 - [dill](https://github.com/uqfoundation/dill)
 - [pandas](https://github.com/pandas-dev/pandas)
+
+## Datasets
+Our datasets are uploaded to Baidu Netdisk
+link: https://pan.baidu.com/s/17Z--QoDbXXDTQ9iH-XZtaw password: joha 
