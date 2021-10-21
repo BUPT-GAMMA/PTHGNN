@@ -14,4 +14,5 @@ source code of KDD 2021 paper "Pre-training on Large-Scale Heterogeneous Graph".
 
 ## Datasets
 Our datasets are uploaded to Baidu Netdisk
-link: https://pan.baidu.com/s/17Z--QoDbXXDTQ9iH-XZtaw password: joha 
+
+link: https://pan.baidu.com/s/17Z--QoDbXXDTQ9iH-XZtaw  password: joha 
